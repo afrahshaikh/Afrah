@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afrah</h1>
 <h3 align="center">A passionate frontend developer and python programmer</h3>
 
-- 🔭 I’m currently working with **Tezda Ltd.**
+- 🔭 I’m currently working with **Verloning.nl**
 
 - 🌱 I’m currently learning **Machine Learning**
 
